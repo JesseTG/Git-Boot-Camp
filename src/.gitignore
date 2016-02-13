@@ -1,0 +1,14 @@
+# Objects and static libraries
+*.o
+*.obj
+*.lib
+*.a
+
+# Shared objects (including Windows DLLs)
+*.dll
+*.so
+*.dylib
+
+# Executables
+*.exe
+*.app
